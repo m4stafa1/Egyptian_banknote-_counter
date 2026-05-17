@@ -1,5 +1,5 @@
 
-# 🏦 Egyptian Banknote Counter
+# Egyptian Banknote Counter
 
 > Automatic detection and valuation of Egyptian Pound (EGP) banknotes using Traditional Computer Vision techniques.
 
